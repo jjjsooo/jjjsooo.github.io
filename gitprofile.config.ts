@@ -29,25 +29,23 @@ const CONFIG = {
       },
     },
     external: {
-      header: 'My Projects',
+      header: 'My Works',
       // To hide the `External Projects` section, keep it empty.
-      projects: [
+      works: [
         {
-          title: 'Project Name',
+          title: 'Depression Prediction',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'This project explores practical depression prediction using machine learning, focusing on how student characteristics influence mental health outcomes.',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+            '',
+          link: '',
         },
         {
-          title: 'Project Name',
-          description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
-          imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
-        },
+          title: "Deriving insights that contribute to the development of AI-based inspection target selection models.",
+          description:"A study focused on extracting actionable insights to advance AI-driven inspection target selection in safety management.",
+          imageUrl:'',
+          link: '',
+        }
       ],
     },
   },
@@ -121,7 +119,7 @@ const CONFIG = {
   // Track visitor interaction and behavior. https://www.hotjar.com
   hotjar: { id: '', snippetVersion: 6 },
   themeConfig: {
-    defaultTheme: 'lofi',
+    defaultTheme: 'cyberpunk',
 
     // Hides the switch in the navbar
     // Useful if you want to support a single color mode
