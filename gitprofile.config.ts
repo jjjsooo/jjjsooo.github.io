@@ -38,13 +38,13 @@ const CONFIG = {
             'This project explores practical depression prediction using machine learning, focusing on how student characteristics influence mental health outcomes.',
           imageUrl:
             '',
-          link: '',
+          link: 'https://drive.google.com/file/d/1V3ayqyGXl5UsTBaSU7I6E7xr1S_3MiXw/view?usp=sharing',
         },
         {
           title: "Deriving insights that contribute to the development of AI-based inspection target selection models.",
           description:"A study focused on extracting actionable insights to advance AI-driven inspection target selection in safety management.",
           imageUrl:'',
-          link: '',
+          link: 'https://drive.google.com/file/d/15unDIVP8ehC_e0ohHs5lpoq_h0kyZ5GT/view?usp=sharing',
         }
       ],
     },
